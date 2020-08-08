@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### My skills
+### My Skills
 - C#
 - Asp.NET Core
 - MVC
