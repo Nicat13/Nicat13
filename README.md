@@ -30,5 +30,4 @@ Here are some ideas to get you started:
 
 ### Contact
 Facebook(https://www.facebook.com/nicat.sahverdiyev.54)
-Instagram(https://www.instagram.com/nic4t.exe/)
 Mail(nijat.shahverdiyev@mail.ru)
