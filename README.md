@@ -28,6 +28,13 @@ Here are some ideas to get you started:
 - HelpTech+ (https://helptechplus.com)
 - Recipes Project (soon..)
 
+<div align="center">
+   <img src="https://github-profile-trophy.vercel.app/?username=sergeyshaykhullin&theme=flat&no-frame=true&margin-w=30" />
+</div>
+
+<!-- It is https://yhype.me/ views count tracker, please remove it or use your own -->
+![](https://hit.yhype.me/github/profile?user_id=46970457)
+
 ### Contact
 Facebook(https://www.facebook.com/nicat.sahverdiyev.54)
 Mail(nijat.shahverdiyev@mail.ru)
