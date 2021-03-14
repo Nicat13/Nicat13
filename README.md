@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - CSS
 ### My Projects
 - HelpTech+ (https://helptechplus.com)
-- NCT One link generator (http://devnct.tk/)
+- NCT One link generator (http://onelinkqr.devnct.tk/)
 - Recipes Project (soon..)
 
 
