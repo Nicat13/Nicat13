@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - C#
 - Asp.NET Core
 - MVC
+- REST API
 - Blazor
 - Javascript
 - Jquery
