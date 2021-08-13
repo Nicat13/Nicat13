@@ -31,6 +31,3 @@ Here are some ideas to get you started:
 - NCT One link generator (http://onelinkqr.nijat.net/)
 - Recipes Project (soon..)
 
-
-### Contact
-Mail(info@devnct.tk)
