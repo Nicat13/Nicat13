@@ -32,4 +32,5 @@
 
   
 
-[![](https://visitcount.itsvg.in/api?id=Nicat13&pretty=true)](https://visitcount.itsvg.in)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Nicat13)
+
